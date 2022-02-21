@@ -1,0 +1,18 @@
+{
+  "name": "hmos-neumorphism",
+  "version": "1.0.8",
+  "description": "Neumorphism library for Harmony OS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:arynn-gupta/neumorphism_hmos.git"
+  },
+  "keywords": [
+    "neumorphism",
+    "hmos"
+  ],
+  "author": "Aryan Gupta",
+  "license": "ISC"
+}
