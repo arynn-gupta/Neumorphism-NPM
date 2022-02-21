@@ -1,4 +1,4 @@
-# Neumorphism for Harmony OS
+# Neumorphism NPM package for Harmony OS
 
 # Installation :
 
