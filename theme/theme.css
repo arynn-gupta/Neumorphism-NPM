@@ -31,6 +31,44 @@
     box-shadow: 5px 5px 10px #713ea4;
 }
 
+/*light_mode*/
+
+.light_mode{
+    background-color: #ECF0F3;
+}
+
+.light_mode .neumorph_container{
+    box-shadow: 5px 5px 10px #c9cccf;
+}
+
+.light_mode .neumorph_innercontainer {
+    box-shadow: -5px -5px 10px #ffffff;
+}
+
+.light_mode .fill{
+    background-color: #ECF0F3;
+    box-shadow: 5px 5px 10px #c9cccf;
+}
+
+/*dark_theme*/
+
+.dark_theme{
+    background-color: #303234;
+}
+
+.dark_theme .neumorph_container{
+    box-shadow: 5px 5px 10px #292b2c;
+}
+
+.dark_theme .neumorph_innercontainer {
+    box-shadow: -5px -5px 10px #373a3c;
+}
+
+.dark_theme .fill{
+    background-color: #303234;
+    box-shadow: 5px 5px 10px #292b2c;
+}
+
 /*white*/
 
 .white{
