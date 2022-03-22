@@ -39,20 +39,12 @@ allprojects {
     }
 }
 
-sonarqube {
-    properties {
-        property "sonar.projectKey", "applibgroup_neumorphism"
-        property "sonar.organization", "applibgroup"
-        property "sonar.host.url", "https://sonarcloud.io/"
-        property "sonar.sources", "entry/src"
-        property "sonar.java.binaries", "entry/build"
-    }
-}
+
 
 
 sonarqube {
     properties {
-        property "sonar.projectKey", "applibgroup_Neumorphism"
+        property "sonar.projectKey", "applibgroup_Neumorphism-NPM"
         property "sonar.organization", "applibgroup"
         property "sonar.host.url", "https://sonarcloud.io/"
         property "sonar.sources", "entry/src"
