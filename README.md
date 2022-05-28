@@ -15,37 +15,37 @@ button, input{
     width: 100%;
     height: 100%;
     background-color:transparent;
-    text-color: black;
+    color: black;
 }
 ```
 
 # Import all components at once
 
 ```html
-<element name='neutheme' src='../../../../../../node_modules/hmos-neumorphism/theme/theme.hml'></element>
-<element name='neualert' src='../../../../../../node_modules/hmos-neumorphism/alert/alert.hml'></element>
-<element name='neuavatar' src='../../../../../../node_modules/hmos-neumorphism/avatar/avatar.hml'></element>
-<element name='neubutton' src='../../../../../../node_modules/hmos-neumorphism/button/button.hml'></element>
-<element name='neubuttons' src='../../../../../../node_modules/hmos-neumorphism/buttons/buttons.hml'></element>
-<element name='neucard' src='../../../../../../node_modules/hmos-neumorphism/card/card.hml'></element>
-<element name='neucheckbox' src='../../../../../../node_modules/hmos-neumorphism/checkbox/checkbox.hml'></element>
-<element name='neudropdown' src='../../../../../../node_modules/hmos-neumorphism/dropdown/dropdown.hml'></element>
-<element name='neuform' src='../../../../../../node_modules/hmos-neumorphism/form/form.hml'></element>
-<element name='neuinput' src='../../../../../../node_modules/hmos-neumorphism/input/input.hml'></element>
-<element name='neulabel' src='../../../../../../node_modules/hmos-neumorphism/label/label.hml'></element>
-<element name='neunavbar' src='../../../../../../node_modules/hmos-neumorphism/navbar/navbar.hml'></element>
-<element name='neupagination' src='../../../../../../node_modules/hmos-neumorphism/pagination/pagination.hml'></element>
-<element name='neuprogress' src='../../../../../../node_modules/hmos-neumorphism/progress/progress.hml'></element>
-<element name='neuradio' src='../../../../../../node_modules/hmos-neumorphism/radio/radio.hml'></element>
-<element name='neuswitcher' src='../../../../../../node_modules/hmos-neumorphism/switcher/switcher.hml'></element>
-<element name='neucarousel' src='../../../../../../node_modules/hmos-neumorphism/carousel/carousel.hml'></element>
+<element name='neutheme' src='hmos-neumorphism/theme/theme.hml'></element>
+<element name='neualert' src='hmos-neumorphism/alert/alert.hml'></element>
+<element name='neuavatar' src='hmos-neumorphism/avatar/avatar.hml'></element>
+<element name='neubutton' src='hmos-neumorphism/button/button.hml'></element>
+<element name='neubuttons' src='hmos-neumorphism/buttons/buttons.hml'></element>
+<element name='neucard' src='hmos-neumorphism/card/card.hml'></element>
+<element name='neucheckbox' src='hmos-neumorphism/checkbox/checkbox.hml'></element>
+<element name='neudropdown' src='hmos-neumorphism/dropdown/dropdown.hml'></element>
+<element name='neuform' src='hmos-neumorphism/form/form.hml'></element>
+<element name='neuinput' src='hmos-neumorphism/input/input.hml'></element>
+<element name='neulabel' src='hmos-neumorphism/label/label.hml'></element>
+<element name='neunavbar' src='hmos-neumorphism/navbar/navbar.hml'></element>
+<element name='neupagination' src='hmos-neumorphism/pagination/pagination.hml'></element>
+<element name='neuprogress' src='hmos-neumorphism/progress/progress.hml'></element>
+<element name='neuradio' src='hmos-neumorphism/radio/radio.hml'></element>
+<element name='neuswitcher' src='hmos-neumorphism/switcher/switcher.hml'></element>
+<element name='neucarousel' src='hmos-neumorphism/carousel/carousel.hml'></element>
 ```
 
 # Theme
 
 Import:
 ```html
-<element name='neutheme' src='../../../../../../node_modules/hmos-neumorphism/theme/theme.hml'></element>
+<element name='neutheme' src='hmos-neumorphism/theme/theme.hml'></element>
 ```
 
 Usage:
@@ -78,7 +78,7 @@ Usage:
 
 Import:
 ```html
-<element name='neualert' src='../../../../../../node_modules/hmos-neumorphism/alert/alert.hml'></element>
+<element name='neualert' src='hmos-neumorphism/alert/alert.hml'></element>
 ```
 
 Usage:
@@ -92,7 +92,7 @@ Usage:
 
 Import:
 ```html
-<element name='neuavatar' src='../../../../../../node_modules/hmos-neumorphism/avatar/avatar.hml'></element>
+<element name='neuavatar' src='hmos-neumorphism/avatar/avatar.hml'></element>
 ```
 
 Usage:
@@ -104,7 +104,7 @@ Usage:
 
 Import:
 ```html
-<element name='neubutton' src='../../../../../../node_modules/hmos-neumorphism/button/button.hml'></element>
+<element name='neubutton' src='hmos-neumorphism/button/button.hml'></element>
 ```
 
 Usage:
@@ -118,7 +118,7 @@ Usage:
 
 Import:
 ```html
-<element name='neubuttons' src='../../../../../../node_modules/hmos-neumorphism/buttons/buttons.hml'></element>
+<element name='neubuttons' src='hmos-neumorphism/buttons/buttons.hml'></element>
 ```
 
 Usage:
@@ -133,7 +133,7 @@ Usage:
 
 Import:
 ```html
-<element name='neucard' src='../../../../../../node_modules/hmos-neumorphism/card/card.hml'></element>
+<element name='neucard' src='hmos-neumorphism/card/card.hml'></element>
 ```
 
 Usage:
@@ -147,7 +147,7 @@ Usage:
 
 Import:
 ```html
-<element name='neucheckbox' src='../../../../../../node_modules/hmos-neumorphism/checkbox/checkbox.hml'></element>
+<element name='neucheckbox' src='hmos-neumorphism/checkbox/checkbox.hml'></element>
 ```
 
 Usage:
@@ -159,7 +159,7 @@ Usage:
 
 Import:
 ```html
-<element name='neudropdown' src='../../../../../../node_modules/hmos-neumorphism/dropdown/dropdown.hml'></element>
+<element name='neudropdown' src='hmos-neumorphism/dropdown/dropdown.hml'></element>
 ```
 
 Usage:
@@ -179,7 +179,7 @@ Usage:
 
 Import:
 ```html
-<element name='neuform' src='../../../../../../node_modules/hmos-neumorphism/form/form.hml'></element>
+<element name='neuform' src='hmos-neumorphism/form/form.hml'></element>
 ```
 
 Usage:
@@ -202,7 +202,7 @@ Usage:
 
 Import:
 ```html
-<element name='neuinput' src='../../../../../../node_modules/hmos-neumorphism/input/input.hml'></element>
+<element name='neuinput' src='hmos-neumorphism/input/input.hml'></element>
 ```
 
 Usage:
@@ -214,7 +214,7 @@ Usage:
 
 Import:
 ```html
-<element name='neulabel' src='../../../../../../node_modules/hmos-neumorphism/label/label.hml'></element>
+<element name='neulabel' src='hmos-neumorphism/label/label.hml'></element>
 ```
 
 Usage:
@@ -226,7 +226,7 @@ Usage:
 
 Import:
 ```html
-<element name='neunavbar' src='../../../../../../node_modules/hmos-neumorphism/navbar/navbar.hml'></element>
+<element name='neunavbar' src='hmos-neumorphism/navbar/navbar.hml'></element>
 ```
 
 Usage:
@@ -242,7 +242,7 @@ Usage:
 
 Import:
 ```html
-<element name='neupagination' src='../../../../../../node_modules/hmos-neumorphism/pagination/pagination.hml'></element>
+<element name='neupagination' src='hmos-neumorphism/pagination/pagination.hml'></element>
 ```
 
 Usage:
@@ -260,7 +260,7 @@ Usage:
 
 Import:
 ```html
-<element name='neuprogress' src='../../../../../../node_modules/hmos-neumorphism/progress/progress.hml'></element>
+<element name='neuprogress' src='hmos-neumorphism/progress/progress.hml'></element>
 ```
 
 Usage:
@@ -272,7 +272,7 @@ Usage:
 
 Import:
 ```html
-<element name='neuradio' src='../../../../../../node_modules/hmos-neumorphism/radio/radio.hml'></element>
+<element name='neuradio' src='hmos-neumorphism/radio/radio.hml'></element>
 ```
 
 Usage:
@@ -284,7 +284,7 @@ Usage:
 
 Import:
 ```html
-<element name='neuswitcher' src='../../../../../../node_modules/hmos-neumorphism/switcher/switcher.hml'></element>
+<element name='neuswitcher' src='hmos-neumorphism/switcher/switcher.hml'></element>
 ```
 
 Usage:
@@ -296,7 +296,7 @@ Usage:
 
 Import:
 ```html
-<element name='neucarousel' src='../../../../../../node_modules/hmos-neumorphism/carousel/carousel.hml'></element>
+<element name='neucarousel' src='hmos-neumorphism/carousel/carousel.hml'></element>
 ```
 
 Usage:
