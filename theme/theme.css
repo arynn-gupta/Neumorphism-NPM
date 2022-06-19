@@ -7,6 +7,8 @@
     justify-content: center;
     color: black;
     background-color: #E0EAF9;
+    transform: scale(1.5);
+    transform-origin: 50% 0%;
 }
 
 .neumorph_container{
